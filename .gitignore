@@ -109,3 +109,6 @@ cov.xml
 coverage.xml
 junit.xml
 /fake_project
+
+/conf.ini
+conf.ini
